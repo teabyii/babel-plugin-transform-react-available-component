@@ -1,0 +1,1 @@
+available("123") ? React.createElement("div", null) : null;
