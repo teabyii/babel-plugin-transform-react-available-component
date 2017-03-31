@@ -1,5 +1,5 @@
 {
-  "name": "babel-plugin-transfrom-react-available-component",
+  "name": "babel-plugin-transform-react-available-component",
   "version": "0.1.0",
   "description": "A plugin for babel provides s simple way to control react component/element display by porps",
   "repository": "teabyii/babel-plugin-transform-react-available-component",
